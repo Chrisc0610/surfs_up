@@ -14,6 +14,6 @@
 		-This is only 2 degree difference compared to June.
 	* Finally looking at the 25%,50%,75% averages we can see that there is only a 3 - 4 difference in temperatures.
 	* The output of both months can be inspeceted below.
-	* ![Image](June_Temperatures.PNG) ![Image](December_Temperatures.PNG)
+	* ![June_Temperatures.PNG](June_Temperatures.PNG) ![June_Temperatures.PNG](December_Temperatures.PNG)
 	
 ## Summary
