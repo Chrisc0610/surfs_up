@@ -18,4 +18,5 @@
 	
 ## Summary
 - Based off our findings above I can concloude that W. Avy can definitly hold up with a Surf/Ice Cream shop year round. Although he should consider a 
-  running a special in the winter months to attract more customers. 
+  running a special in the winter months to attract more customers. What he can do is run  queries for the months of January - February then compare
+  those high and low temperature averages and see if he run a sale such as reducing prices as the degrees go down.
