@@ -17,3 +17,5 @@
 	* ![Decemeber_Temperatures.PNG](Resources/December_Temperatures.PNG)   ![June_Temperatures.PNG](Resources/June_Temperatures.PNG)
 	
 ## Summary
+- Based off our findings above I can concloude that W. Avy can definitly hold up with a Surf/Ice Cream shop year round. Although he should consider a 
+  running a special in the winter months to attract more customers. 
