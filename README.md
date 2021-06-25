@@ -13,5 +13,7 @@
 	* we can also see that December has rather hot days too with the maximum average temepratures reaching 83 degrees.
 		-This is only 2 degree difference compared to June.
 	* Finally looking at the 25%,50%,75% averages we can see that there is only a 3 - 4 difference in temperatures.
+	* The output of both months can be inspeceted below.
+	* ![Image](screenshot.jpg) ![Image](screenshot.jpg)
 	
 ## Summary
